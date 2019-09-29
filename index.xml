@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>תורה בגבעה - הרב מרדכי אפרתי</title>
-    <link>http://efratim1.github.io/</link>
+    <link>https://efratim1.github.io/</link>
     <description>Recent content on תורה בגבעה - הרב מרדכי אפרתי</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Sep 2019 23:08:13 +0300</lastBuildDate>
     
-	<atom:link href="http://efratim1.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://efratim1.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>פרשת ניצבים</title>
-      <link>http://efratim1.github.io/posts/post1/</link>
+      <link>https://efratim1.github.io/posts/post1/</link>
       <pubDate>Sat, 28 Sep 2019 23:08:13 +0300</pubDate>
       
-      <guid>http://efratim1.github.io/posts/post1/</guid>
+      <guid>https://efratim1.github.io/posts/post1/</guid>
       <description>לחץ להורדה</description>
     </item>
     
